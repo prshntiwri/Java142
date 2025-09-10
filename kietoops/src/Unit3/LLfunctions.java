@@ -14,5 +14,10 @@ public class LLfunctions {
         while(it.hasNext()) {
             System.out.println(it.next());
         }
+
+        ll.remove("Third");
+        ll.add("Fifth");
+        ll.add("Nine");
+        System.out.println(ll);
     }
 }
