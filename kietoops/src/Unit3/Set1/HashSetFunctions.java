@@ -25,7 +25,8 @@ public class HashSetFunctions {
 //        System.out.println(set1.addAll(set2));
 //        set1.remove(set2);
 //        System.out.println(set1);
-        set1.removeIf(str->str.contains("aa"));
+//        set1.removeIf(str->str.contains("aa"));
+        set1.remove(set2);
         System.out.println(set1);
     }
 }
