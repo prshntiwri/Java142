@@ -10,5 +10,6 @@ public class LinkedHS {
         lhs.add("two");
         lhs.add("three");
         System.out.println(lhs);
+
     }
 }
