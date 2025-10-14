@@ -9,5 +9,3 @@ public class MethodReferences {
         System.out.println("Hi User, I am non-static method");
     }
 }
-
-
