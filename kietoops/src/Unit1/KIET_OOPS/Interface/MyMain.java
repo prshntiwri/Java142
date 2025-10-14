@@ -5,6 +5,5 @@ public class MyMain {
         Myprint obj = new Myprint();
         obj.print();
         obj.show();
-
     }
 }

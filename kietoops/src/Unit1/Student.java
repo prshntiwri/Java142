@@ -1,4 +1,4 @@
-package Unit1.KIET_OOPS;
+package Unit1;
 
 public class Student {
     int roll_no; ///instance variables
@@ -20,7 +20,5 @@ public class Student {
     void display(){
         System.out.println("Roll No."+roll_no);
         System.out.println("Name is "+name);
-
-
     }
 }

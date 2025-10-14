@@ -4,7 +4,6 @@ public class CollegeStudent extends Student {
     public CollegeStudent(String name, int roll_no) {
         super(name, roll_no);
     }
-
     public void attend_class(){
         System.out.println(name+" Attend class on smart board");
     }

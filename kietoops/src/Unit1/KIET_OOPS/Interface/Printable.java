@@ -6,7 +6,7 @@ public interface Printable {
         System.out.println("This is my private method");
     }
 
-    public static  void mystatic(){
+    public static void mystatic(){
         System.out.println("This is my static method");
     }
 }

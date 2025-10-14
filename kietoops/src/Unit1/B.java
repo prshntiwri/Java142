@@ -1,4 +1,4 @@
-package Unit1.KIET_OOPS;
+package Unit1;
 
 public class B extends A {
     public static void display(){

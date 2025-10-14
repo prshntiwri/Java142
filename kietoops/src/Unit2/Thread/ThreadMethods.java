@@ -1,4 +1,4 @@
-package Unit2;
+package Unit2.Thread;
 
 public class ThreadMethods {
     public static void main(String[] args) {
