@@ -5,7 +5,7 @@ public class MethodReferences {
 //        System.out.println("Hello, I am Static Method");
 //    }
 
-    public void saySomething() {
+    public static void saySomething() {
         System.out.println("Hi User, I am non-static method");
     }
 }
